@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https://remedy-joint.herokuapp.com/offer/")
+header("Location:https://ll9az.doctorcod.com/l")
 
 ?>
